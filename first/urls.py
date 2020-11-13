@@ -7,4 +7,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.page),
     # path('', views.about),
+    # sv
 ]
